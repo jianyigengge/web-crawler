@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 03 14:08:59 2017
-
-@author: lenovo
-"""
-
 #!/usr/bin/env python
 # encoding=utf-8
 import pandas as pd
